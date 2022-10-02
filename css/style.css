@@ -1,0 +1,75 @@
+/* body {
+    font-family: "Lato", serif;
+    color: #424551;
+}
+[class*="__container"]{
+    max-width: 810px;
+    margin: 0 auto;
+}
+.page {}
+.page__container {
+
+}
+.title {
+    font-weight: 900;
+    font-size: 46px;
+    line-height: 130%;
+    color: #1E212C;
+    margin-bottom: 40px;
+}
+.image {
+    margin-bottom: 60px;
+}
+.image img{
+    max-width: 100%;
+}
+.page__text-bold {
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 150%;
+    color: #1E212C;
+    margin-bottom: 24px;
+}
+.page__text{
+    line-height: 160%;
+    margin-bottom: 48px;
+}
+.page__text p{
+    margin-bottom: 24px;
+}
+.page__text ul {
+    padding-left: 16px;
+    margin-bottom: 24px;
+}
+.page__text-quote {
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 150%;
+    color: #1E212C;
+    margin-bottom: 48px;
+    padding-left: 58px;
+} */
+
+/* |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| */
+
+.border{    
+    border-top: 5px solid #000;
+}
+a{
+    display: block;
+}
+
+#link1:hover{
+    color: aqua;
+}
+#link2:active {
+    color: rgb(81, 0, 255);
+    text-decoration: underline;
+}
+#link3:visited {
+    color: rgb(0, 255, 47);
+    text-decoration: underline;
+}
+#link4:focus {
+    outline: 2px dotted rgb(255, 128, 0);
+}
